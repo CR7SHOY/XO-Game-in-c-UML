@@ -1,0 +1,9 @@
+﻿  board.cpp
+C:\Users\cccxx\source\repos\X-O game\X-O game\board.cpp(42,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\cccxx\source\repos\X-O game\X-O game\board.cpp(63,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\cccxx\source\repos\X-O game\X-O game\board.cpp(85,18): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+C:\Users\cccxx\source\repos\X-O game\X-O game\board.cpp(85,21): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+  X-O game.cpp
+  XOGame.cpp
+  Generating Code...
+  X-O game.vcxproj -> C:\Users\cccxx\source\repos\X-O game\x64\Debug\X-O game.exe
