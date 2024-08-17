@@ -10,7 +10,7 @@ class Board
 class Game
     Board
     
-    GameEnded() // checking if the any one won and print the winner
+    GameEnded() // checking if any one won and print the winner
     PrintBoard()
     UpdateBoard()
     Put(index , char)
@@ -26,7 +26,7 @@ Main
 
 
 
-    
+     
 
 
 
