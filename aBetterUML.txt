@@ -1,0 +1,39 @@
+class Board
+    arr[3][3]
+    
+    Changeplace(index , char)
+    GetPlace(index)
+    Print()
+    Update()
+
+
+class Game
+    Board
+    moves = 0
+    winner = "Draw"
+
+    GameEnded() // checking if the any one won or it's a draw and change the string Winner
+    gameStatus()
+    PrintBoard()
+    UpdateBoard()
+    Put(index , char)
+
+Main
+    game = Game()
+    game.printBoard()
+    while True:
+        // playgame and check if the game Ended
+    game.gameStatus()
+
+        
+
+
+
+    
+
+
+
+
+
+
+
